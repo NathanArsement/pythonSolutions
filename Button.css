@@ -1,0 +1,25 @@
+html,
+body {
+     height: 100%;
+     overflow: hidden;
+}
+
+body {
+     color: #6699CC;
+     font-size: 22px;
+     font-weight: bold;
+     text-align: center;
+     -webkit-font-smoothing: antialiased;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     
+     background-color: #C594C5;
+     background-size: cover;
+     background-position: center;
+     background-image: linear-gradient(rgba(lightblue, 0.4), rgba(plum, 0.4)),
+                       url('https://i.imgsafe.org/1fee5c9.jpg');
+}
+
+
