@@ -6,7 +6,7 @@ const ButtonComponent = ({ title }) => {
     <View style={styles.parent}>
       <Button 
         title={title} 
-        onPress={()=>props.navigation.navigate("problems") }
+        onPress={()=>props.navigation.navigate("Home") }
         style={styles.button}
         />
     </View>

@@ -19,8 +19,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-  "package": "com.aditya.pythonSolutions",
-  "versionCode": 1
+      "package": "com.aditya.pythonSolutions",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
